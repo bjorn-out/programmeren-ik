@@ -2,3 +2,4 @@ title: Programmeren IK
 markdown: kramdown
 remote_theme: bjorn-out/pages-theme@0.1
 exclude: problems/objects/cards/lab
+exclude: problems/objects/queue/lab
